@@ -7,4 +7,4 @@
 
 - [BGA-arknova-wechat-notifier](https://github.com/hcfw007/BGA-arknova-wechat-notifier) — Board Game Arena 的 Ark Nova 轮到你时微信通知你 / WeChat ping when it's your turn in BGA's Ark Nova
 - [nw-vue-horizontal-tree](https://github.com/hcfw007/nw-vue-horizontal-tree) — Vue 横向树组件 / A horizontal tree component for Vue
-- [eslint-config](https://github.com/hcfw007/eslint-config) — 个人 ESLint 配置 / My personal ESLint preset
+- [lint-config](https://github.com/hcfw007/lint-config) — 个人 ESLint 配置 / My personal ESLint preset
