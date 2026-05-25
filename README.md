@@ -3,6 +3,8 @@
 来自中国的 Coder，[Wechaty](https://github.com/wechaty/wechaty) 主要贡献者之一。空了随便写点小玩具。
 *A Coder from China, one of the core contributors to [Wechaty](https://github.com/wechaty/wechaty). I build little things for fun in my spare time.*
 
+🌐 个人主页 / Homepage: [myonlystar-cn.pages.dev](https://myonlystar-cn.pages.dev/)
+
 **项目 / Projects**
 
 - [inkprint](https://github.com/hcfw007/inkprint) — 从个人社媒发布内容中提取写作风格指纹，生成可供 AI 直接读取的个人语言形象 / Extract a writing-style fingerprint from your social media history and turn it into an AI-readable voice profile
