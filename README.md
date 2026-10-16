@@ -5,6 +5,11 @@
 
 🌐 个人主页 / Homepage: [blog.munan.wang](https://blog.munan.wang/)
 
+**最近写的 / Recent posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 **项目 / Projects**
 
 - [chrome-in-harness](https://github.com/hcfw007/chrome-in-harness) — 通过 Chrome 扩展让 AI 客户端操作你**真实** Chrome profile 的开源浏览器 MCP / An open-source browser MCP that lets AI clients drive your real Chrome profile
@@ -14,3 +19,5 @@
 - [paperblade](https://github.com/hcfw007/paperblade) — 本地优先的桌面 PDF 工具箱，文件不离开你的电脑 / A local-first desktop PDF toolkit — your files never leave your computer
 - [fsmines](https://github.com/hcfw007/fsmines) — 磁盘扫雷：把沉睡的文件当雷扫掉 / A minesweeper for your filesystem — sweep the files you forgot
 - [nw-vue-horizontal-tree](https://github.com/hcfw007/nw-vue-horizontal-tree) — Vue 横向树组件（★13，已归档）/ A horizontal tree component for Vue (★13, archived)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
