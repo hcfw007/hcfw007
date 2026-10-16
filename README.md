@@ -21,8 +21,5 @@
 - [wolf-arena](https://github.com/hcfw007/wolf-arena) — 9 个 LLM 互相欺骗、推理、投票的狼人杀对战引擎，由 DeepSeek 驱动 / A werewolf arena where 9 LLMs bluff, reason and vote
 - [inkprint](https://github.com/hcfw007/inkprint) — 从个人社媒发布内容中提取写作风格指纹，生成可供 AI 直接读取的个人语言形象 / Extract a writing-style fingerprint from your social media history and turn it into an AI-readable voice profile
 - [BGA-arknova-wechat-notifier](https://github.com/hcfw007/BGA-arknova-wechat-notifier) — Board Game Arena 的 Ark Nova 轮到你时微信通知你 / WeChat ping when it's your turn in BGA's Ark Nova
-- [paperblade](https://github.com/hcfw007/paperblade) — 本地优先的桌面 PDF 工具箱，文件不离开你的电脑 / A local-first desktop PDF toolkit — your files never leave your computer
-- [fsmines](https://github.com/hcfw007/fsmines) — 磁盘扫雷：把沉睡的文件当雷扫掉 / A minesweeper for your filesystem — sweep the files you forgot
-- [nw-vue-horizontal-tree](https://github.com/hcfw007/nw-vue-horizontal-tree) — Vue 横向树组件（★13，已归档）/ A horizontal tree component for Vue (★13, archived)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
