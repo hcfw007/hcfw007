@@ -8,6 +8,11 @@
 **最近写的 / Recent posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [永别了，A畜](https://blog.munan.wang/posts/goodbye-anthropic/)
+- [换掉卡里克，也只会换来下一个咪一鸠样](https://blog.munan.wang/posts/man-utd-september-26/)
+- [从涅槃组翻山出来的iG，又去看世界了](https://blog.munan.wang/posts/ig-nirvana-to-worlds-26/)
+- [写于江泽民诞辰100周年](https://blog.munan.wang/posts/on-jiang-zemin-centenary/)
+- [虽然拖进了加时，但这是一场一边倒的决赛](https://blog.munan.wang/posts/on-26-world-cup-final/)
 <!-- BLOG-POST-LIST:END -->
 
 **项目 / Projects**
